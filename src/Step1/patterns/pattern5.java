@@ -17,3 +17,10 @@ public class pattern5 {
         reversedTriangle(n);
     }
 }
+/*
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
+ */

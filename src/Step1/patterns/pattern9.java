@@ -41,3 +41,13 @@ public class pattern9 {
         doublesidedtriangle(n);
     }
 }
+/*
+       *
+     * * *
+   * * * * *
+ * * * * * * *
+   * * * * *
+     * * *
+      *
+
+ */

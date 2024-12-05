@@ -59,4 +59,6 @@ Java throw and throws
 we use the throws keyword in the method to declare the type of exceptions that might occur with it
 eg:- public static void findFile() throws IOException{} -> This will show that the findFile function will throw the IOException
 
+
+throw -> used explicitly to throw the exception
  */

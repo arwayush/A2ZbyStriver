@@ -1,4 +1,4 @@
-package Step4.BSOn2DArrayss;
+package Step4.BSOnAnswers;
 
 public class SQRTofNumber {
 //    This approach takes the O(n/2)

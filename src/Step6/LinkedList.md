@@ -1,5 +1,6 @@
 Linked list is a data Structures, in which elements are stored in the heap memory
 The numbers are not in the contiguous memory locations
+The only data and the next node is stored in the single ll
 can store string, char, int, double
 Size of the LL can be increased at any moment
 
@@ -83,3 +84,10 @@ Total : 8 bytes                       Total : 12bytes
 
 
 Head of the LL is the first point of the LL
+
+
+
+# Doubly linked list
+* We can go to both direction, we can access the next as well as previous element
+* Node has a data, has a previous and next pointer
+* 

@@ -90,4 +90,6 @@ Head of the LL is the first point of the LL
 # Doubly linked list
 * We can go to both direction, we can access the next as well as previous element
 * Node has a data, has a previous and next pointer
-* 
+* data: The data stored in the node
+* next: It refers to the reference to the next node
+* prev: It refers to the reference to the previous node
